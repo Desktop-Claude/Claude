@@ -1,13 +1,4 @@
 
-## SEO Description
-
-Claude Desktop AI assistant is a helpful companion for daily tasks, study sessions, and light home projects. Use Claude Desktop for study when reviewing notes, Claude Desktop writing aid for drafting ideas, and Claude Desktop home helper for organizing simple plans. This Claude Desktop task companion keeps conversations ready whenever you need thoughtful support without complexity.
-
----
-
-## README
-
-```markdown
 # Claude Desktop - AI Assistant for Everyday Use
 
 ![Claude Desktop](https://miro.medium.com/v2/0*cuNGuDy0TepsYdRd.jpg)
